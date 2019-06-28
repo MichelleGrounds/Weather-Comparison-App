@@ -1,8 +1,6 @@
 //Weather api thing
 
 //it takes the weather from two predefined places and compares the temperature, then returns the difference
-//f450213bfcc35c2d13c216190ef65aca
-//https://api.openweathermap.org/data/2.5/weather?id=2953317&appid=f450213bfcc35c2d13c216190ef65aca
 
 var temperatures = [];
 //var axios = require("axios");
